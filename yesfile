@@ -1,5 +1,6 @@
 {
   "ERR-SND7V": "also, infinite stamina doesn't work on treadmills, its only a client infinite stamina. its not real.",
   "REC-8ATV3": "???",
-  "REC-ZCD7B": "hiding under the floor is a risky move; due to the anticheat."
+  "REC-ZCD7B": "hiding under the floor is a risky move; due to the anticheat.",
+  "ERR-NB7WN": "fullbright toggles are removed; will be added later on"
 }
