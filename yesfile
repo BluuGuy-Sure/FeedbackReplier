@@ -3,5 +3,6 @@
   "REC-8ATV3": "???",
   "REC-ZCD7B": "hiding under the floor is a risky move; due to the anticheat.",
   "ERR-NB7WN": "fullbright toggles are removed; will be added later on",
-  "REC-ETWX9": "what do you want?"
+  "REC-ETWX9": "what do you want?",
+  "ERR-AXZWK": "what do you mean by \"non safe hide\" ? do you mean the alternative version where you hide to the elevator instead of hiding in the nearest spot? (safe hide)  if that's what you meant, then it's because teleporting towards the elevator could teleport you back to your previous position.  also, I see you're progressing through the floors with the script; thank you for using the autofarm!"
 }
