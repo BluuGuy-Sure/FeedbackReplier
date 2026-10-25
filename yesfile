@@ -6,5 +6,6 @@
   "REC-ETWX9": "what do you want?",
   "ERR-AXZWK": "what do you mean by \"non safe hide\" ? do you mean the alternative version where you hide to the elevator instead of hiding in the nearest spot? (safe hide)  if that's what you meant, then it's because teleporting towards the elevator could teleport you back to your previous position.  also, I see you're progressing through the floors with the script; thank you for using the autofarm!",
   "REC-WDPXE": "my bad",
-  "ERR-7HVAD": "It's caused by the server's lagback (anticheat)"
+  "ERR-7HVAD": "It's caused by the server's lagback (anticheat)",
+  "ERR-X3QAJ": "auto hide is currently unreliable for autofarm as anticheat is constantly teleporting the user back to their previous position; i implemented safe hide for a reason. If you're constantly getting hit in a higher floor; please let me know as You're currently at floor 70+"
 }
